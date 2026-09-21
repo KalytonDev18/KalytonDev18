@@ -27,8 +27,10 @@
 
 ```text
 Olá!
-Meu nome é Kalyton, Atualmente sou estudante da área Tech e estou buscando e evoluindo todos os dias para a minha carreira como Desenvolvedor. 
-Aqui estão alguns dos meus projetos e exercícios aplicando conceitos que estou estudando.
+Meu nome é Kalyton, Atualmente sou estudante da área Tech e estou buscando e evoluindo todos os dias para a minha
+carreira como Desenvolvedor.
+
+Aqui estão meus projetos e exercícios aplicando conceitos que estou estudando.
 
 Foco atual:
 → Backend
