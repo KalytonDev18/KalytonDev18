@@ -15,10 +15,6 @@
 
   <br>
 
-  <a href="https://github.com/KalytonDev18">
-    <img src="https://img.shields.io/github/followers/KalytonDev18?label=Followers&style=flat-square&color=000000&labelColor=ffffff" />
-  </a>
-
   <a href="https://github.com/KalytonDev18?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -80,3 +76,8 @@ Foco atual:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalytonDev18&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
+
+<img
+  src="https://raw.githubusercontent.com/KalytonDev18/KalytonDev18/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
