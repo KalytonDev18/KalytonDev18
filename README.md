@@ -26,8 +26,9 @@
 ## `> Sobre mim`
 
 ```text
-Kalyton Daniel
-Software Developer
+Olá!
+Meu nome é Kalyton, Atualmente sou estudante da área Tech e estou buscando e evoluindo todos os dias para a minha carreira como Desenvolvedor. 
+Aqui estão alguns dos meus projetos e exercícios aplicando conceitos que estou estudando.
 
 Foco atual:
 → Backend
